@@ -1,0 +1,2 @@
+test ../tests/prof.epd -d 20
+quit
